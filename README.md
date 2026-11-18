@@ -1,9 +1,9 @@
-# Anand Pro Plumbing Services 🚰
+# Anandh Pro Plumbing Services 🚰
 
-Official hyper-local SEO landing page and business website for **Anand Pro Plumbing Services** & **Anand Waterproofing Contractor**, serving Miyapur and a 12 km radius across Hyderabad, Telangana.
+Official hyper-local SEO landing page and business website for **Anandh Pro Plumbing Services** & **Anandh Waterproofing Contractor**, serving Miyapur and a 12 km radius across Hyderabad, Telangana.
 
 ## 📍 Business Information
-- **Business Name:** Anand Pro Plumbing Services
+- **Business Name:** Anandh Pro Plumbing Services
 - **Contact:** [+91 81793 27471](tel:+918179327471)
 - **HQ Address:** 5th phase B-block, D.no. 1-22, Janapriya Main Rd, Nandini Nagar, Ambedkar Nagar, Hafeezpet, Miyapur, Hyderabad – 500049
 - **Google Business Rating:** 5.0 ★
