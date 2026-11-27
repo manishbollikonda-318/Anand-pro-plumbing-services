@@ -26,10 +26,12 @@ Official hyper-local SEO landing page and business website for **Anandh Pro Plum
 - Masjidbanda
 - Gachibowli
 
-## 🔧 Core Services & Capabilities
+## 🔧 Core Services & Capabilities (Google Business Core)
+- **Bathroom Renovation and Remodeling:** Turnkey bathroom overhauls, concealed CPVC/UPVC piping, diverters, shower enclosures, and luxury sanitaryware installation.
+- **Bathroom Grouting:** 100% waterproof epoxy tile grouting, non-destructive floor seepage arrest, and perimeter silicone bead sealing.
+- **Water Meter Setup Installation:** Apartment sub-meters, individual flat flow meters, non-return valves, and AMR digital water meter fittings.
+- **All Type of Plumbing Services:** Tap and mixer repair, pipe leak detection, water motor pump connections, overhead tank piping, angle stopcocks, and emergency plumbing.
 - **Indian to Western Toilet Conversion:** Precision commode conversion, drain pipe alignment, anti-leak wax sealing, and tile restoration.
-- **Bathroom Renovation & Remodeling:** Complete sanitary overhaul, concealed CPVC/UPVC piping, diverters, shower enclosures, and luxury sanitaryware installation.
-- **Water Meter Setup & Installation:** Apartment sub-meters, individual flat flow meters, and commercial AMR digital water meter fittings.
 - **Leak Detection & Waterproofing:** Non-destructive acoustic detection, slab leakage arrest, and terrace waterproofing with 5-year warranty.
 - **Drainage & Sewer Line Clearing:** Heavy-duty motorized unblocking for stubborn clogs in kitchens, toilets, and main sewer pipes.
 - **24/7 Emergency Plumber:** Rapid 30-minute dispatched assistance for bursts, motor pump failures, and overflow crises.
